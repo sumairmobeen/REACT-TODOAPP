@@ -2,7 +2,7 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zubairkhan1234.github.io/todo-app-using-react",
+  "homepage": "https://sumairmobeen.github.io/REACT-TODOAPP/index",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.2",
     "@testing-library/jest-dom": "^5.11.9",
